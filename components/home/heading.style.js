@@ -4,7 +4,7 @@ const styles = StyleSheet.create({
     container: {
         marginTop: SIZES.medium,
         marginBottom: -SIZES.xSmall,
-        marginHorizontal:12,
+        marginHorizontal:13,
         
 }})
 export default styles;
